@@ -12,6 +12,7 @@ body {
     padding: 20px;
     font-family: 'Red Hat Display', sans-serif;
     background: hsl(225, 100%, 94%) url(images/pattern-background-desktop.svg) top no-repeat;
+    height: 100vh;
 }
 
 @media screen and (max-width: 375px) {
